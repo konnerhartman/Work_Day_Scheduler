@@ -1,5 +1,5 @@
 SITE URL:
-    https://konnerhartman.github.io/Work-Day-Scheduler/
+    https://konnerhartman.github.io/Work_Day_Scheduler/
 
 DESCRIPTION:
     In this assignment, I created a work day scheduler using pre-existing HTML and CSS. Bootstrap is utilized for styling, moment.js is utilized for catpuring time and dates, and JQuery is utilized for the script. 
@@ -8,4 +8,4 @@ DESCRIPTION:
 
 SCREENCAPTURE:
 ![Screenshot](./assets/images/Work-Day-Scheduler.png)
-![Gif](assets/images/05-third-party-apis-homework-demo.gif)
+![Gif](./assets/images/05-third-party-apis-homework-demo.gif)
